@@ -1,0 +1,20 @@
+# Dataset
+dataset/
+
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights
+*.pt
+*.pth
+
+# Virtual environment
+venv/
+.env
+
+# IDE
+.vscode/
